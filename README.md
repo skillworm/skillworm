@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skillworm
 - 👀 I’m interested in coding, data analytics, data engineering, and database designing.
-- 🌱 I’m currently learning cloud systems, HDFS, and, ETL.
+- 🌱 I’m currently learning AWS, SparkMLlib.
 - 💞️ I’m looking to collaborate on projects that require dealing with data.
 - 📫 How to reach me - mail - angadsingh08061998@gmail.com
 
